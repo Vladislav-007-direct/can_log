@@ -1,0 +1,3 @@
+[submodule "geostreamlib"]
+	path = geostreamlib
+	url = https://gitlab.vke.su/ysharapov/geostreamlib

@@ -1,0 +1,4 @@
+*.pro.*
+build*
+*.log
+.vscode
